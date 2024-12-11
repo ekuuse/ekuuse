@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @ekuuse
-- 👀 I’m interested in a lot
-- 🌱 I’m currently learning JS, TS, EJS, React, HTML, CSS
-- ⚡ Fun fact: No
+- welcome to ekuuse
+- you are most likely here to steal code or you are stuck on your school task
+- have fun
